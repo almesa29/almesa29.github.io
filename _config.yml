@@ -30,13 +30,13 @@ social:
     url: https://www.linkedin.com/pub/alexandria-mesa/98/762/859
   - title: github
     url: http://github.com/almesa29
-  - title: 
-    url: 
+  - title: goodreads
+    url: https://www.goodreads.com/user/show/24961219-alexandria-mesa
 
 # Postal address (add as many lines as necessary)
 address:
   - line: 
-  - line: Durham, NC 27703
+  - line: Durham, NC
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
