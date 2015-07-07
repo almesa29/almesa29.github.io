@@ -8,9 +8,6 @@ project-date: September 2014 - present
 client: Community Workshop Series
 category: Volunteer Experience
 description:  Digital media instruction at NC public libraries
-
-#Classes
-
 	*09/20/14 Email Basics Floater
 	*09/27/14 Word Basics Floater
 	*10/11/14 Excel Basics Instructor
