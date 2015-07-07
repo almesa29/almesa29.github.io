@@ -12,15 +12,66 @@ Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/te
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: DavisLibrary.jpeg
 alt: image-alt
-project-date: July 2014
-client: The Client
-category: Web Development
-description: The description of the project
+project-date: August 2014 to present
+client: 
+#Davis Library (UNC Chapel Hill)
+##Research and Instructional Services
+category: Work Experience
+description: Graduate Assistant
 
 ---
 ```
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: Instruction.jpeg
+alt: image-alt
+project-date: 
+client: English 105
+category: Volunteer Experience
+description: Instruction
+
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: KramdenInstitute.jpeg
+alt: image-alt
+project-date: 
+client: Kramden Institute
+category: Volunteer Experience
+description: Volunteer
+
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: library.jpeg
+alt: image-alt
+project-date: 
+client: Community Workshop Series
+category: Volunteer Experience
+description: Public library instruction
+
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: NCBIO.jpeg
+alt: image-alt
+project-date: 
+client: North Carolina Biotechnology Center
+category: Work Experience
+description: Library Intern
+
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: RedRidingHood.jpeg
+alt: image-alt
+project-date: 
+client: Reference Libguide
+category: Class Experience
+description: Folk narrative libguide
 
 ## Demo
 View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
