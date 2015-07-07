@@ -7,4 +7,5 @@ alt: image-alt
 project-date: January 2015 - June 2015
 client: North Carolina Biotechnology Center
 category: Work Experience
-description: Multiple projects involved in keeping NC Biotechnology Directory up-to-date using InterAction, ILL, etc..
+description: Multiple projects involved in keeping NC Biotechnology Directory up-to-date using InterAction, ILL,etc..
+---
