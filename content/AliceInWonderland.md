@@ -273,10 +273,10 @@ And she went on planning to herself how she would manage it. 'They must
 go by the carrier,' she thought; 'and how funny it'll seem, sending
 presents to one's own feet! And how odd the directions will look!
 
-     *ALICE'S RIGHT FOOT, ESQ.
-       HEARTHRUG,
-         NEAR THE FENDER,
-           (WITH ALICE'S LOVE).*
+*>ALICE'S RIGHT FOOT, ESQ.
+>>HEARTHRUG,
+>>>NEAR THE FENDER,
+>>>(WITH ALICE'S LOVE).
 
 Oh dear, what nonsense I'm talking!'
 
@@ -330,15 +330,15 @@ hands on her lap as if she were saying lessons, and began to repeat it,
 but her voice sounded hoarse and strange, and the words did not come the
 same as they used to do:--
 
-     *'How doth the little crocodile
-      Improve his shining tail,
-     And pour the waters of the Nile
-      On every golden scale!*
+*>'How doth the little crocodile
+>>Improve his shining tail,
+>And pour the waters of the Nile
+>>On every golden scale!
 
-     *'How cheerfully he seems to grin,
-      How neatly spread his claws,
-     And welcome little fishes in
-      With gently smiling jaws!'*
+>'How cheerfully he seems to grin,
+>>How neatly spread his claws,
+>And welcome little fishes in
+>>With gently smiling jaws!'
 
 'I'm sure those are not the right words,' said poor Alice, and her eyes
 filled with tears again as she went on, 'I must be Mabel after all, and
@@ -596,50 +596,50 @@ the Mouse's tail; 'but why do you call it sad?' And she kept on puzzling
 about it while the Mouse was speaking, so that her idea of the tale was
 something like this:--
 
-         *'Fury said to a
-         mouse, That he
-        met in the
-       house,
-     "Let us
-      both go to
-       law: I will
-        prosecute
-         YOU.--Come,
-           I'll take no
-           denial; We
-          must have a
-        trial: For
-      really this
-     morning I've
-    nothing
-    to do."
-     Said the
-      mouse to the
-       cur, "Such
-        a trial,
-         dear Sir,
-            With
-          no jury
-        or judge,
-       would be
-      wasting
-      our
-      breath."
-       "I'll be
-        judge, I'll
-         be jury,"
-            Said
-         cunning
-          old Fury:
-          "I'll
-          try the
-            whole
-            cause,
-              and
-           condemn
-           you
-          to
-           death."'*
+*>>>>>>>>'Fury said to a
+>>>>>>>>>mouse, That he
+>>>>>>>>met in the
+>>>>>>>house,
+>>>>>"Let us
+>>>>>>both go to
+>>>>>>>law: I will
+>>>>>>>>prosecute
+>>>>>>>>>YOU.--Come,
+>>>>>>>>>>>I'll take no
+>>>>>>>>>>>denial; We
+>>>>>>>>>>must have a
+>>>>>>>>trial: For
+>>>>>>really this
+>>>>>morning I've
+>>>>nothing
+>>>>to do."
+>>>>>Said the
+>>>>>>mouse to the
+>>>>>>>cur, "Such
+>>>>>>>>a trial,
+>>>>>>>>>dear Sir,
+>>>>>>>>>>>With
+>>>>>>>>>>no jury
+>>>>>>>>or judge,
+>>>>>>>would be
+>>>>>>wasting
+>>>>>>our
+>>>>>>breath."
+>>>>>>>"I'll be
+>>>>>>>>judge, I'll
+>>>>>>>>>be jury,"
+>>>>>>>>>>>>Said
+>>>>>>>>>>cunning
+>>>>>>>>>>old Fury:
+>>>>>>>>>>"I'll
+>>>>>>>>>>try the
+>>>>>>>>>>>>whole
+>>>>>>>>>>>>cause,
+>>>>>>>>>>>>>>and
+>>>>>>>>>>condemn
+>>>>>>>>>>>you
+>>>>>>>>>>to
+>>>>>>>>>>>death."'
 
 
 'You are not attending!' said the Mouse to Alice severely. 'What are you
@@ -1042,45 +1042,45 @@ different!' Alice replied in a very melancholy voice.
 
 Alice folded her hands, and began:--
 
-   'You are old, Father William,' the young man said,
-    'And your hair has become very white;
-   And yet you incessantly stand on your head--
-    Do you think, at your age, it is right?'
+*>>>'You are old, Father William,' the young man said,
+>>>>'And your hair has become very white;
+>>>And yet you incessantly stand on your head--
+>>>>Do you think, at your age, it is right?'
 
-   'In my youth,' Father William replied to his son,
-    'I feared it might injure the brain;
-   But, now that I'm perfectly sure I have none,
-    Why, I do it again and again.'
+*>>>'In my youth,' Father William replied to his son,
+>>>>'I feared it might injure the brain;
+>>>But, now that I'm perfectly sure I have none,
+>>>>Why, I do it again and again.'
 
-   'You are old,' said the youth, 'as I mentioned before,
-    And have grown most uncommonly fat;
-   Yet you turned a back-somersault in at the door--
-    Pray, what is the reason of that?'
+*>>>'You are old,' said the youth, 'as I mentioned before,
+>>>>And have grown most uncommonly fat;
+>>>Yet you turned a back-somersault in at the door--
+>>>>Pray, what is the reason of that?'
 
-   'In my youth,' said the sage, as he shook his grey locks,
-    'I kept all my limbs very supple
-   By the use of this ointment--one shilling the box--
-    Allow me to sell you a couple?'
+*>>>'In my youth,' said the sage, as he shook his grey locks,
+>>>>'I kept all my limbs very supple
+>>>By the use of this ointment--one shilling the box--
+>>>>Allow me to sell you a couple?'
 
-   'You are old,' said the youth, 'and your jaws are too weak
-    For anything tougher than suet;
-   Yet you finished the goose, with the bones and the beak--
-    Pray how did you manage to do it?'
+*>>>'You are old,' said the youth, 'and your jaws are too weak
+>>>>For anything tougher than suet;
+>>>Yet you finished the goose, with the bones and the beak--
+>>>>Pray how did you manage to do it?'
 
-   'In my youth,' said his father, 'I took to the law,
-    And argued each case with my wife;
-   And the muscular strength, which it gave to my jaw,
-    Has lasted the rest of my life.'
+*>>>'In my youth,' said his father, 'I took to the law,
+>>>>And argued each case with my wife;
+>>>And the muscular strength, which it gave to my jaw,
+>>>>Has lasted the rest of my life.'
 
-   'You are old,' said the youth, 'one would hardly suppose
-    That your eye was as steady as ever;
-   Yet you balanced an eel on the end of your nose--
-    What made you so awfully clever?'
+*>>>'You are old,' said the youth, 'one would hardly suppose
+>>>>That your eye was as steady as ever;
+>>>Yet you balanced an eel on the end of your nose--
+>>>>What made you so awfully clever?'
 
-   'I have answered three questions, and that is enough,'
-    Said his father; 'don't give yourself airs!
-   Do you think I can listen all day to such stuff?
-    Be off, or I'll kick you down stairs!'
+*>>>'I have answered three questions, and that is enough,'
+>>>>Said his father; 'don't give yourself airs!
+>>>Do you think I can listen all day to such stuff?
+>>>>Be off, or I'll kick you down stairs!'
 
 
 'That is not said right,' said the Caterpillar.
@@ -1400,29 +1400,29 @@ And with that she began nursing her child again, singing a sort of
 lullaby to it as she did so, and giving it a violent shake at the end of
 every line:
 
-   'Speak roughly to your little boy,
-    And beat him when he sneezes:
-   He only does it to annoy,
-    Because he knows it teases.'
+*>>>'Speak roughly to your little boy,
+>>>>And beat him when he sneezes:
+>>>He only does it to annoy,
+>>>>Because he knows it teases.'
 
-         CHORUS.
+* **>>>>>>>>>>CHORUS.** *
 
  (In which the cook and the baby joined):--
 
-       'Wow! wow! wow!'
+*>>>>>>>'Wow! wow! wow!'
 
 While the Duchess sang the second verse of the song, she kept tossing
 the baby violently up and down, and the poor little thing howled so,
 that Alice could hardly hear the words:--
 
-   'I speak severely to my boy,
-    I beat him when he sneezes;
-   For he can thoroughly enjoy
-    The pepper when he pleases!'
+*>>>'I speak severely to my boy,
+>>>>I beat him when he sneezes;
+>>>For he can thoroughly enjoy
+>>>>The pepper when he pleases!'
 
-         CHORUS.
+* **>>>>>>>>>CHORUS.** *
 
-       'Wow! wow! wow!'
+*>>>>>>>'Wow! wow! wow!'
 
 'Here! you may nurse it a bit, if you like!' the Duchess said to Alice,
 flinging the baby at her as she spoke. 'I must go and get ready to play
@@ -1728,8 +1728,8 @@ quarrelled last March--just before HE went mad, you know--' (pointing
 with his tea spoon at the March Hare,) '--it was at the great concert
 given by the Queen of Hearts, and I had to sing
 
-     "Twinkle, twinkle, little bat!
-     How I wonder what you're at!"
+*>>>>>"Twinkle, twinkle, little bat!
+>>>>>How I wonder what you're at!"
 
 You know the song, perhaps?'
 
@@ -1737,9 +1737,9 @@ You know the song, perhaps?'
 
 'It goes on, you know,' the Hatter continued, 'in this way:--
 
-     "Up above the world you fly,
-     Like a tea-tray in the sky.
-         Twinkle, twinkle--"'
+*>>>>>"Up above the world you fly,
+>>>>>Like a tea-tray in the sky.
+>>>>>>>>>Twinkle, twinkle--"'
 
 Here the Dormouse shook itself, and began singing in its sleep 'Twinkle,
 twinkle, twinkle, twinkle--' and went on so long that they had to pinch
