@@ -7,7 +7,7 @@ alt: image-alt
 project-date: September 2014 - present
 client: Community Workshop Series
 category: Volunteer Experience
-description:  I volunteer through the School of Information and Library Science at the Community Workshop Series in digital media instruction at the Chapel Hill, Durham and Carrboro public libraries branches. Below is a list of the dates I have floated or instructed.
+description:  "I volunteer through the School of Information and Library Science at the Community Workshop Series in digital media instruction at the Chapel Hill, Durham and Carrboro public libraries branches. Below is a list of the dates I have floated or instructed.
 	*09/20/14 Email Basics Floater
 	*09/27/14 Word Basics Floater
 	*10/11/14 Excel Basics Instructor
@@ -21,6 +21,7 @@ description:  I volunteer through the School of Information and Library Science 
 	*06/24/15 Powerpoint Basics Instructor
 	*06/27/15 Excel Basics Instructor
 	*07/11/15 Doing More with Excel Instructor
-	*07/18/15 Open Lab
-	
+	*07/18/15 Open Lab"
+
 ---
+
