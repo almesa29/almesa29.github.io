@@ -8,20 +8,7 @@ project-date: September 2014 - present
 client: Community Workshop Series
 category: Volunteer Experience
 description:  "I volunteer through the School of Information and Library Science at the Community Workshop Series in digital media instruction at the Chapel Hill, Durham and Carrboro public libraries branches. Below is a list of the dates I have floated or instructed.
-	*09/20/14 Email Basics Floater
-	*09/27/14 Word Basics Floater
-	*10/11/14 Excel Basics Instructor
-	*11/1/14 Powerpoint Basics Floater
-	*11/15/14 Social Networking Instructor
-	*03/07/15 Powerpoint Basics Instructor
-	*05/23/15 Computer Basics Floater
-	*05/27/15 Internet Basics Instructor
-	*06/6/15 Email Basics Instructor
-	*06/13/15 Word Basics Instructor
-	*06/24/15 Powerpoint Basics Instructor
-	*06/27/15 Excel Basics Instructor
-	*07/11/15 Doing More with Excel Instructor
-	*07/18/15 Open Lab"
+- 09/20/14 Email Basics Floater - 09/27/14 Word Basics Floater - 10/11/14 Excel Basics Instructor - 11/1/14 Powerpoint Basics Floater - 11/15/14 Social Networking Instructor - 03/07/15 Powerpoint Basics Instructor - 05/23/15 Computer Basics Floater - 05/27/15 Internet Basics Instructor - 06/6/15 Email Basics Instructor - 06/13/15 Word Basics Instructor - 06/24/15 Powerpoint Basics Instructor - 06/27/15 Excel Basics Instructor - 07/11/15 Doing More with Excel Instructor - 07/18/15 Open Lab"
 
 ---
 

@@ -9,5 +9,5 @@ client: INLS 161 Class Assignments
 category: Class Assignments
 description: Here I have included all of the class assignments.
 
-
 ---
+
