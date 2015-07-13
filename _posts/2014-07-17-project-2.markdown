@@ -5,8 +5,9 @@ date: 2014-07-17
 img: Instruction.jpeg
 alt: image-alt
 project-date: 
-client: English 105
-category: Instruction Experience
-description: 
+client: INLS 161 Class Assignments
+category: Class Assignments
+description: Here I have included all of the class assignments.
+
 
 ---

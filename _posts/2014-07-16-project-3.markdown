@@ -7,6 +7,6 @@ alt: image-alt
 project-date: June 2015
 client: Kramden Institute
 category: Volunteer Experience
-description: Volunteer at class to help bridge the gap of digital media literacy.
+description: I volunteered at the Kramden Institute.  The Kramden Institute helps to bridge the gap of digital media literacy.  This particular class was composed of four sessions at the Chapel Hill Library where we taught local adults how to use the computers, which they were able to keep at the end of the four sessions. I was a floater going around and helping individuals for the first two sessions.
 
 ---

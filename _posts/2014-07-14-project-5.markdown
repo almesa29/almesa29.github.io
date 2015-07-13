@@ -4,7 +4,7 @@ modal-id: 5
 date: 2014-07-14
 img: NCBIO.jpeg
 alt: image-alt
-project-date: January 2015 - June 2015
+project-date: January 2015 to June 2015
 client: North Carolina Biotechnology Center
 category: Work Experience
 description: Multiple projects involved in keeping NC Biotechnology Directory up-to-date using InterAction, ILL,etc..
