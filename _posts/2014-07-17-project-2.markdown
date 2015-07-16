@@ -9,8 +9,30 @@ client: INLS 161 Class Assignments
 category: Class Assignments
 description: Here I have included all of the class assignments.
 
+
 ---
+#Class Assignments
 
-#Header
+##Assignment 2: Text Formatting Document
 
-Here's some text
+This is a list of text docoments created for the site.
+
+<a href="{{ almesa29.github.io}}/content/AliceInWonderland.docx" target="_blank">Original TXT file</a>
+<a href="{{ almesa29.github.io}}/content/AliceInWonderland.html" target="_blank">Original TXT file</a>
+<a href="{{ almesa29.github.io}}/content/AliceInWonderland.md" target="_blank">Original TXT file</a>
+<a href="{{ almesa29.github.io}}/content/AliceInWonderland.odt" target="_blank">Original TXT file</a>
+<a href="{{ almesa29.github.io}}/content/AliceInWonderland.txt" target="_blank">Original TXT file</a>
+
+##Assignment 3: Spreadsheet Document
+
+This is a list of spreadsheet documents created for the site.
+
+<a href="{{ almesa29.github.io}}/content/class-data.csv" target="_blank">Original TXT file</a>
+<a href="{{ almesa29.github.io}}/content/class-data.odb" target="_blank">Original TXT file</a>
+<a href="{{ almesa29.github.io}}/content/class-data.ods" target="_blank">Original TXT file</a>
+
+##Assignment 4: Database Document
+
+This is a libreoffice database document created for the site.
+
+<a href="{{ almesa29.github.io}}/content/inls161-books-db.odb" target="_blank">Original TXT file</a>
