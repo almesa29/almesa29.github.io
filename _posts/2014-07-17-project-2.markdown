@@ -13,7 +13,7 @@ description: Here I have included all of the class assignments.
 ---
 #Class Assignments
 
-##Assignment 2: Text Formatting Document
+* **Assignment 2: Text Formatting Document** *
 
 This is a list of text docoments created for the site.
 
@@ -23,7 +23,7 @@ This is a list of text docoments created for the site.
 <a href="{{ almesa29.github.io}}/content/AliceInWonderland.odt" target="_blank"> ODT file</a>
 <a href="{{ almesa29.github.io}}/content/AliceInWonderland.txt" target="_blank">Original TXT file</a>
 
-##Assignment 3: Spreadsheet Document
+* **Assignment 3: Spreadsheet Document** *
 
 This is a list of spreadsheet documents created for the site.
 
@@ -31,7 +31,7 @@ This is a list of spreadsheet documents created for the site.
 <a href="{{ almesa29.github.io}}/content/class-data.odb" target="_blank"> ODB file</a>
 <a href="{{ almesa29.github.io}}/content/class-data.ods" target="_blank"> ODS file</a>
 
-##Assignment 4: Database Document
+* **Assignment 4: Database Document** *
 
 This is a libreoffice database document created for the site.
 

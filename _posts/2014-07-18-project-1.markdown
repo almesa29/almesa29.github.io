@@ -7,7 +7,11 @@ alt: image-alt
 project-date: August 2014 to present
 client: Davis Library
 category: Work Experience
-description:  I work at the Davis Library Research and Instructional Services.  I am a graduate assistant who interacts with the public, students, faculty, etc. to help with reference requests and process InterLibrary Loan requests in Illiad. Included in this is library instruction of English 105 classes..
+description:  I work at the Davis Library Research and Instructional Services.  
 
 
 ---
+
+#Davis Library
+
+I am a graduate assistant who interacts with the public, students, faculty, etc. to help with reference requests and process InterLibrary Loan requests in Illiad. Included in this is library instruction of English 105 classes..

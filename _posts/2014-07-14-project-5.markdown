@@ -9,3 +9,8 @@ client: North Carolina Biotechnology Center
 category: Work Experience
 description: Multiple projects involved in keeping NC Biotechnology Directory up-to-date using InterAction, ILL,etc..
 ---
+
+#NCBIO
+
+* **Below are a few examples of projects I was a part of at NC Biotechnology Center.** *
+

@@ -7,7 +7,13 @@ alt: image-alt
 project-date: November 2014
 client: Folk Narrative Libguide
 category: Class Project for SILS Reference Class
-description: I created a Libguide for the UNC Chapel Hill ENGL/FOLK 487 Folk Narrative Class using the wix.com platform.  I based the resources, suggestions, tips etc. on the syllabus provided to me by the professor. [Here is the link to the Libguide.](http://mesaac.wix.com/487-folk-narrative)
+description: I created a Libguide for the UNC Chapel Hill ENGL/FOLK 487 Folk Narrative Class using the wix.com platform.  
 
 
 ---
+
+#UNC Libguide
+
+* **Below is the link to the libguide I created. I based the resources, suggestions, tips etc. on the syllabus provided to me by the professor.** * 
+
+[Here is the link to the Libguide.](http://mesaac.wix.com/487-folk-narrative)
