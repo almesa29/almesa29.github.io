@@ -18,7 +18,7 @@
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
-                                    <strong>{% if post.link %}<a href="{{ post.link }}">{{ post.client }}</a>{% else %}{{ post.client }}{% endif %}
+                                    <strong>{% if post.link %}<a href="{{ post.link }}">{% endif %}{{ post.client }}{% if post.link %}</a>{% endif %}
                                     </strong>
                                 </li>
                                 <li>Date:
