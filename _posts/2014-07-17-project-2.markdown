@@ -8,9 +8,7 @@ project-date: July 2015
 client: INLS 161 Class Assignments
 category: Class Assignments
 description: Here I have included all of the class assignments.
-
-
----
+content: "
 #Class Assignments
 
 ##Assignment 2: Text Formatting Document
@@ -36,3 +34,5 @@ This is a list of spreadsheet documents created for the site.
 This is a libreoffice database document created for the site.
 
 <a href="{{ almesa29.github.io}}/content/inls161-books-db.odb" target="_blank"> ODB file</a>
+"
+---
