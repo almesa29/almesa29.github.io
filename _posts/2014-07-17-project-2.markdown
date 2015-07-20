@@ -8,9 +8,8 @@ project-date: July 2015
 client: INLS 161 Class Assignments
 category: Class Assignments
 description: Here I have included all of the class assignments.
-
-
 ---
+
 #Class Assignments
 
 ##Assignment 2: Text Formatting Document
