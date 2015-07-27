@@ -8,8 +8,6 @@ project-date: August 2014 to present
 client: Davis Library
 category: Work Experience
 description:  I work at the Davis Library Research and Instructional Services.  
-
-
 ---
 
 #Davis Library

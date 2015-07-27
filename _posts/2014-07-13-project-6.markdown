@@ -8,8 +8,6 @@ project-date: November 2014
 client: Folk Narrative Libguide
 category: Class Project for SILS Reference Class
 description: I created a Libguide for the UNC Chapel Hill ENGL/FOLK 487 Folk Narrative Class using the wix.com platform.  
-
-
 ---
 
 #UNC Libguide
